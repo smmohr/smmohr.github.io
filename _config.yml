@@ -1,13 +1,13 @@
-title: Sarah Mohr
+title: Sarah Mohr - Neuroscientist, Researcher, and Squirrels
 url: "https://smmohr.github.io"
 baseurl: "/"
 
-author: test author
-description: descript testing
+author: Sarah Mohr
+description: Neuroscientist, Researcher, and Squirrels
 
 markdown: kramdown
 ins_logo: "logo.png"
-favicon_location: "logo.png"
+favicon_location: "favicon.ico"
 
 tracking_id: #
 
