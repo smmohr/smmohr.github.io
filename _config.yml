@@ -7,12 +7,15 @@ description: Neuroscientist, Researcher, and Squirrels
 
 markdown: kramdown
 ins_logo: "logo.png"
+
+favicon: yes
 favicon_location: "favicon.ico"
 
 tracking_id: #
 
 footer: yes
-# footer_url: "#"
+footer_url: no
+footer_url_link: "#"
 footer_text: "Copyright © 2024 Sarah Mohr"
 
 
