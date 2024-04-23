@@ -1,4 +1,4 @@
-title: Researcher
+title: Sarah Mohr
 url: "https://smmohr.github.io"
 baseurl: "/"
 
@@ -8,7 +8,7 @@ ins_logo: "./logo.png"
 tracking_id: #
 
 footer: yes
-# footer_url: "https://github.com/ankitsultana"
+footer_url: "#"
 footer_text: "Copyright © 2024 Sarah Mohr"
 
 
@@ -17,9 +17,11 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
+ # - name: "Home"
+ #   link: "/"
  - name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "CV"
+   link: "cv.pdf"
+ # - name: "Contact"
+ #   link: "contact"
