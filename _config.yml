@@ -9,7 +9,7 @@ markdown: kramdown
 ins_logo: "logo.png"
 
 favicon: yes
-favicon_location: "favicon.ico?"
+favicon_location: "favicon.png"
 
 tracking_id: #
 
