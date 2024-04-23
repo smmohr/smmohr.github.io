@@ -2,6 +2,9 @@ title: Sarah Mohr
 url: "https://smmohr.github.io"
 baseurl: "/"
 
+author: test author
+description: descript testing
+
 markdown: kramdown
 ins_logo: "logo.png"
 favicon_location: "logo.png"
