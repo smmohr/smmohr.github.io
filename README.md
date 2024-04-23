@@ -1,2 +1,2 @@
-# smmohr.github.io
-personal website
+### personal website
+[smmohr.github.io](smmohr.github.io)
