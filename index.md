@@ -21,20 +21,14 @@ I am deeply fascinated by the study of squirrel hibernation, an interest driven 
 
 ## Publications
 
-1. **2024 Hypothalamic hormone deficiency enables physiological anorexia**
-	
-	SM Mohr et al., *bioRxiv*
-	
-	[Paper](#) | [PDF](#)
+1. **2024 Hypothalamic hormone deficiency enables physiological anorexia**  
+	SM Mohr et al., *bioRxiv*  
+	[Paper](#) \| [PDF](#)
 
-1.  **2022 Ground squirrels initiate sexual maturation during hibernation**
-	
-	R Dai Pra, SM Mohr et al., *Current Biology*
-	
-	[Paper](#) | [PDF](#)
+1.  **2022 Ground squirrels initiate sexual maturation during hibernation**  
+	R Dai Pra, SM Mohr et al., *Current Biology*  
+	[Paper](#) \| [PDF](#)
 
-1.  **2020 Cellular, molecular, and physiological adaptations of hibernation: the solution to environmental challenges**
-	
-	SM Mohr et al., *Annual Review Of Cell And Developmental Biology*
-	
-	[Paper](#) | [PDF](#)
+1.  **2020 Cellular, molecular, and physiological adaptations of hibernation: the solution to environmental challenges**  
+	SM Mohr et al., *Annual Review Of Cell And Developmental Biology*  
+	[Paper](#) \| [PDF](#)
