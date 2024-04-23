@@ -4,11 +4,12 @@ baseurl: "/"
 
 markdown: kramdown
 ins_logo: "./logo.png"
+favicon: "./logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "#"
+# footer_url: "#"
 footer_text: "Copyright © 2024 Sarah Mohr"
 
 
@@ -25,3 +26,4 @@ nav:
    link: "cv.pdf"
  # - name: "Contact"
  #   link: "contact"
+

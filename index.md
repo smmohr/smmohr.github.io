@@ -4,11 +4,13 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="headshot.jpg">
+<img class="profile-picture" src="headshot.jpeg">
 
 Hi! I am a Ph.D. student in Neuroscience at Yale University.
 
 squirrel squirrel squirrel
+
+---
 
 ## Research Interest
 
@@ -20,18 +22,13 @@ I am deeply fascinated by the study of squirrel hibernation, an interest driven 
 2. paper 2
 
 
----
+
 
 > "Be like a squirrel—make preparations for the winter."
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
 
 ---
 
 ## Links
 
-1. [Email]()) 
+1. [Email]()
 2. [Google Scholar]()
