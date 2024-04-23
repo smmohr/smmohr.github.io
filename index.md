@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="headshot.jpeg">
 
-Hi! I am a Ph.D. student in Neuroscience at Yale University.
+Hi! I am a Ph.D. student in Neuroscience at Yale University. Feel free to reach out at [getaspam@email.com](#)
 
 squirrel squirrel squirrel
 
@@ -21,12 +21,14 @@ I am deeply fascinated by the study of squirrel hibernation, an interest driven 
 
 ## Publications
 
-1. paper 1
-2. paper 2
+1. **2024 Hypothalamic hormone deficiency enables physiological anorexia**
+	SM Mohr et al., *bioRxiv*
+	[Paper](#) | [PDF](#)
 
----
+1.  **2022 Ground squirrels initiate sexual maturation during hibernation**
+	R Dai Pra, SM Mohr et al., *Current Biology*
+	[Paper](#) | [PDF](#)
 
-## Links
-
-1. [Email]()
-2. [Google Scholar]()
+1.  **2020 Cellular, molecular, and physiological adaptations of hibernation: the solution to environmental challenges**
+	SM Mohr et al., *Annual Review Of Cell And Developmental Biology*
+	[Paper](#) | [PDF](#)
