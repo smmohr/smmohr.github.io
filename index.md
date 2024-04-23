@@ -21,7 +21,7 @@ This research not only sheds light on the resilience and evolutionary adaptation
 
 > "Be like a squirrel—--make preparations for the winter."
 
-<img src="/squirrel.png" alt="squirrel" height="150px" width="150px">
+<img src="/squirrel.png" alt="squirrel" style="width: 150px; height: 150px">
 
 ## Publications
 
