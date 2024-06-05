@@ -7,7 +7,11 @@ layout: default
 
 <img class="profile-picture" src="headshot.jpeg">
 
-Hi! I am a Ph.D. student in Neuroscience at Yale University. Feel free to reach out at [sarah.mohr@yale.edu](mailto:sarah.mohr@yale.edu)
+Hello and welcome!  
+
+I am a recently defended PhD student in the lab of Dr. Elena Gracheva at Yale University, where I study the neurohormonal physiology of feeding behavior during hibernation in the thirteen-lined ground squirrel. My research interests are centered around exploring the neuronal, hormonal, and physiological mechanisms behind natural, ecological behaviors and adaptations that animals use to survive and thrive in their unique environments.  
+
+Feel free to reach out at [sarah.mohr@yale.edu](mailto:sarah.mohr@yale.edu)
 
 <!-- ---
 
