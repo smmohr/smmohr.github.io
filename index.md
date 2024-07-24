@@ -29,7 +29,7 @@ This research not only sheds light on the resilience and evolutionary adaptation
 
 1. **2024 Hypothalamic hormone deficiency enables physiological anorexia**  
 	SM Mohr et al., *Nature Communications (in press)*  
-	[Journal (soon)](#) \| [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.15.532843v2)
+	[Journal](https://www.nature.com/articles/s41467-024-49996-2) \| [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.15.532843v2)
 
 1.  **2022 Ground squirrels initiate sexual maturation during hibernation**  
 	R Dai Pra, SM Mohr et al., *Current Biology*  
