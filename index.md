@@ -21,9 +21,9 @@ I am deeply fascinated by the study of squirrel hibernation, an interest driven 
 
 This research not only sheds light on the resilience and evolutionary adaptations of squirrels but also provides broader insights into ecological balance and potential applications in human medical science. -->
 
-> "Be like a squirrel—--make preparations for the winter."
+<!-- > "Be like a squirrel—--make preparations for the winter." -->
 
-<img src="/squirrel.png" alt="squirrel" style="width: 150px; height: 150px">
+<!-- <img src="/squirrel.png" alt="squirrel" style="width: 150px; height: 150px"> -->
 
 ## Publications
 
