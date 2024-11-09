@@ -28,14 +28,14 @@ This research not only sheds light on the resilience and evolutionary adaptation
 ## Publications
 
 1. **2024 Hypothalamic hormone deficiency enables physiological anorexia**  
-	SM Mohr et al., *Nature Communications*  
-	[Journal](https://www.nature.com/articles/s41467-024-49996-2) \| [PubMed](https://pubmed.ncbi.nlm.nih.gov/38987241/) \| [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.15.532843v2)
+    SM Mohr et al., *Nature Communications*  
+    [Journal](https://www.nature.com/articles/s41467-024-49996-2) \| [PubMed](https://pubmed.ncbi.nlm.nih.gov/38987241/) \| [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.03.15.532843v2)  
     Featured in The Transmitter: [Rousing a ‘new era’ of hibernation research](https://www.thetransmitter.org/physiology/rousing-a-new-era-of-hibernation-research/)
 
 1.  **2022 Ground squirrels initiate sexual maturation during hibernation**  
-	R Dai Pra, SM Mohr et al., *Current Biology*  
-	[Journal](https://www.cell.com/current-biology/fulltext/S0960-9822(22)00254-8) \| [PubMed](https://pubmed.ncbi.nlm.nih.gov/35245461)
+    R Dai Pra, SM Mohr et al., *Current Biology*  
+    [Journal](https://www.cell.com/current-biology/fulltext/S0960-9822(22)00254-8) \| [PubMed](https://pubmed.ncbi.nlm.nih.gov/35245461)
 
 1.  **2020 Cellular, molecular, and physiological adaptations of hibernation: the solution to environmental challenges**  
-	SM Mohr et al., *Annual Review Of Cell And Developmental Biology*  
-	[Journal](https://www.annualreviews.org/content/journals/10.1146/annurev-cellbio-012820-095945) \| [PubMed](https://pubmed.ncbi.nlm.nih.gov/32897760/)
+    SM Mohr et al., *Annual Review Of Cell And Developmental Biology*  
+    [Journal](https://www.annualreviews.org/content/journals/10.1146/annurev-cellbio-012820-095945) \| [PubMed](https://pubmed.ncbi.nlm.nih.gov/32897760/)
